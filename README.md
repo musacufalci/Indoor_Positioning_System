@@ -1,1 +1,1 @@
-# indoor-positioning-system
+# Indoor Positioning System
